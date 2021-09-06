@@ -52,7 +52,7 @@
   z-index: -1;
 }
 
-.btn-special-animation::hover:before {
+.btn-special-animation:hover::before {
   -webkit-transform: scaleX(1);
           transform: scaleX(1);
   -webkit-transform-origin: left;
